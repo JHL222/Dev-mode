@@ -77,6 +77,10 @@ cd $GOPATH/src/dev-mode
 
 <div align="center">
 
+# 2-4. 시연 영상
+
+https://youtu.be/4wOM_sk6Bno
+
 # 3. 결과 보고서
 [하이퍼레저 패브릭을 이용한 음원거래 플랫폼 프로젝트 결과 보고서.pptx](https://github.com/user-attachments/files/16200523/default.pptx)
 
